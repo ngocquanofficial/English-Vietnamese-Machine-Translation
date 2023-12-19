@@ -1,6 +1,4 @@
 import streamlit as st
-import requests
-import transformers
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 checkpoint = "ngocquanofficial/machine_translation_VinAI"
 tokenizer = AutoTokenizer.from_pretrained(checkpoint)
