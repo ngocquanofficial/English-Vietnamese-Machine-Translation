@@ -23,5 +23,4 @@ else :
     output = tokenizer.decode(outputs[0], skip_special_tokens=True)
     # output = output[0]["generated_text"]
 
-
 st.write(output)
