@@ -1,7 +1,7 @@
 torch
 tensorflow
-tokenizers
 numpy
 pandas
 scikit-learn
+tokenizers
 transformers
