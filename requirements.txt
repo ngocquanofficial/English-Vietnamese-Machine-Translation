@@ -1,1 +1,7 @@
-transformers==4.32.1
+torch
+tensorflow
+tokenizers
+numpy
+pandas
+scikit-learn
+transformers
